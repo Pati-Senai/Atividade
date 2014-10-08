@@ -1,0 +1,6 @@
+1-Para que serve o commit :
+
+O commit é uma "revisão"  onde envia para o repositorio todas as alterações
+ mostrando quem,quando e onde foi enviados .
+
+
